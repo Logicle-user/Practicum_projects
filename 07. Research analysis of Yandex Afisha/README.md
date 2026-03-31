@@ -4,9 +4,9 @@
 Исследовательский анализ данных сервиса Яндекс Афиша
 
 # 2. Инструменты
-Yandex DataLens (https://datalens.yandex/pkj3tate8ffu9?_theme=dark&tab=5z)
-Python (Pandas, Matplotlib/Seaborn, Scipy, Numpy)
-Jupyter Notebook
+- Yandex DataLens (https://datalens.yandex/pkj3tate8ffu9?_theme=dark&tab=5z)
+- Python (Pandas, Matplotlib/Seaborn, Scipy, Numpy)
+- Jupyter Notebook
 
 # 3. Описание проекта
 Проведение анализ данных сервиса Яндекс Афиша с 1 июня по 30 октября 2024 года:
